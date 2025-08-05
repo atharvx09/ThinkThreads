@@ -27,7 +27,7 @@ cd ecommerce-chatbot
 
 2. Environment Setup
 bashcp .env.example .env
-# Edit .env with your Groq API key
+
 3. Run with Docker
 bashdocker-compose up --build
 4. Load Sample Data

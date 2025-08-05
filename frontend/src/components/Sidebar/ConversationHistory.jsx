@@ -79,3 +79,6 @@ const ConversationHistory = () => {
 };
 
 export default ConversationHistory;
+
+
+// This component displays the conversation history sidebar in the chat application.
